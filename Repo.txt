@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+I am on my way to  fork user B repository 
+This text was added originally while in theRepo branch
+=======
 Modifiying the repo file 
+>>>>>>> 5fb65df9f8de5e9867dea22492afdd92fb357b9a
