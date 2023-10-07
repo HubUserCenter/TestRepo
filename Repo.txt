@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Modifiying the repo file 
-=======
-I am on my way to  fork user B repository 
->>>>>>> 9f62070 (Committing Repo.txt to begin tracking changes)
