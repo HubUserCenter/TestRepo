@@ -1,1 +1,1 @@
-UserB modifiying new file 
+make simulateneous changes 
